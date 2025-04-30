@@ -5,6 +5,11 @@
 1. 인터넷에 존재하는 리드미 전용 에디터를 통해서 편집
 2. 자체 문법으로 편집
 
+# 목차
+1. [제목](#제목)  
+2. [이미지](#이미지)  
+3. [순서별 표현법](#순서별-표현법)
+
 # 제목
 ## #개수가 많아지면 글씨가 작아짐.
 ### 테스트 2
@@ -35,9 +40,9 @@
 >>> 그리고 그걸 사람들이 믿었다.
 
 ## 링크
-1. 일반적인 링크 <http://www.naver.com>
-2. [유니티 깃허브](github.com/jhcsharp01)
+1. 일반적인 링크 <http://www.naver.com>  
+2. [유니티 깃허브](github.com/jhcsharp01)  
 3. [유니티 깃허브](github.com/jhcsharp01, "강사 블로그")
 
-### 이미지
+## 이미지
 ![image](https://github.com/user-attachments/assets/7cbca6e3-9c93-450e-8db7-ada806f19073)
